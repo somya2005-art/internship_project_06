@@ -2,7 +2,8 @@
 - This is a desktop-focused web page designed to deliver a rich, engaging experience through interactive visuals. It includes two auto-playing sliders, one manual swipe slider, and several zoom-in animations triggered on scroll.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_Dubai/
 
 🧰 Built With
 - HTML5
